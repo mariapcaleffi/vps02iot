@@ -1,2 +1,4 @@
-# vps02iot
-Repositório criado para a avaliação de AIOT - Senai 2024
+# Avaliação de AIOT - Senai
+
+### Repositório criado para a avaliação de AIOT - Senai 2024
+
